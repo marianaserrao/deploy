@@ -87,7 +87,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'deploydb',
-        'USER': 'mari',
+        'USER': 'maridb',
         'PASSWORD': 'polijunior',
         'HOST': 'localhost',
         'PORT': '',
